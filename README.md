@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: It is working on localhost but not on production.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![Github stats](https://github-readme-stats.vercel.app/api?username=soumyo123-prog)
 
 <!--
 **soumyo123-prog/soumyo123-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
