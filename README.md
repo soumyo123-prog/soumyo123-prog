@@ -18,5 +18,4 @@ Connect with me:
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=soumyo123-prog)
 ![Soumyajyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyo123-prog&show_icons=true&theme=dracula)
