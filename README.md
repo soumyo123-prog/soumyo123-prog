@@ -7,23 +7,11 @@
 - 🌱 I’m currently learning browser automation and react native.
 - 👯 I’m looking to collaborate on stuff related to web development.
 - 💬 Ask me about anything but I will not be able to answer most of them :satisfied: 
-<!-- - 📫 How to reach me:  -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: It is working on localhost but not on production.
 
+---
+Connect with me:
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/soumyajyoti-dey-809500194/)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=soumyo123-prog)
-
-<!--
-**soumyo123-prog/soumyo123-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
