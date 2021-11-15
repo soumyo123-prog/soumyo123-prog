@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on stuff related to web development.
 - 💬 Ask me about anything but I will not be able to answer most of them :satisfied: 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: It is working on localhost but not on production.
 
 ---
 Connect with me:
