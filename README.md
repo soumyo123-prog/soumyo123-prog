@@ -19,4 +19,3 @@ Connect with me:
 
 ![Soumyajyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyo123-prog&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyo123-prog&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Soumyajyoti's github activity graph](https://activity-graph.herokuapp.com/graph?username=soumyo123-prog)](https://github.com/ashutosh00710/github-readme-activity-graph)
