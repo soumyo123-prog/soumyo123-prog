@@ -17,5 +17,7 @@ Connect with me:
 
 ---
 
-![Soumyajyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyo123-prog&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyo123-prog&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  ![Soumyajyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyo123-prog&show_icons=true&theme=dracula)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyo123-prog&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
